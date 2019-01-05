@@ -7,6 +7,7 @@ or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) our Phoenix Admission
 ### FAQ: 
 
 - WIFI: `GEvents` | Password: GEvents515
+- WIFI: `Galvanize Guest` | Password: beapineaplle
 - Bathrooms: Out the doors and to your left about half way down the hall
 
 
